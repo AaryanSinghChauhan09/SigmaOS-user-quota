@@ -3,7 +3,7 @@ name = "SigmaOS-user-quota"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "user-quota component"
+description = "user quota"
 upstream = []
 
 [contract]
